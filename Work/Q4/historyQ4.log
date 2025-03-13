@@ -70,3 +70,7 @@
    70  chmod +x Q4_2.sh
    71  ./Q4_2.sh
    72  ./Q4_2.sh /Users/gldmmn/LINUX_Course_Project/file1.csv
+   73  history > historyQ4.log
+   74  git add .
+   75  git commit -m "Q4.2 complete"
+   76  ./Q4_2.sh /Users/gldmmn/LINUX_Course_Project/file1.csv

@@ -1,12 +1,12 @@
-2025-03-13 18:55:00 - Using existing virtual environment.
-2025-03-13 18:55:00 - Virtual environment activated.
-2025-03-13 18:55:00 - Created Diagrams directory.
-2025-03-13 18:55:00 - Processing CSV file: /Users/gldmmn/LINUX_Course_Project/file1.csv
-2025-03-13 18:55:00 - Processing data for plant: abc
-2025-03-13 18:55:00 - Created directory: Diagrams/abc
-2025-03-13 18:55:01 - Warning: Format parameter specified but not supported by the Python script. Ignoring.
-2025-03-13 18:55:01 - Running Python script for plant: abc
-2025-03-13 18:55:01 - Parameters: --plant 'abc' --height 1 1 1 1 1 --leaf_count 1 1 1 1 1 --dry_weight 1 1 1 1 1 
+2025-03-13 18:58:13 - Using existing virtual environment.
+2025-03-13 18:58:13 - Virtual environment activated.
+2025-03-13 18:58:13 - Created Diagrams directory.
+2025-03-13 18:58:13 - Processing CSV file: /Users/gldmmn/LINUX_Course_Project/file1.csv
+2025-03-13 18:58:13 - Processing data for plant: abc
+2025-03-13 18:58:13 - Created directory: Diagrams/abc
+2025-03-13 18:58:14 - Warning: Format parameter specified but not supported by the Python script. Ignoring.
+2025-03-13 18:58:14 - Running Python script for plant: abc
+2025-03-13 18:58:14 - Parameters: --plant 'abc' --height 1 1 1 1 1 --leaf_count 1 1 1 1 1 --dry_weight 1 1 1 1 1 
 Plant: abc
 Height data: [1.0, 1.0, 1.0, 1.0, 1.0] cm
 Leaf count data: [1, 1, 1, 1, 1]
@@ -15,14 +15,14 @@ Generated plots for abc:
 Scatter plot saved as abc_scatter.png
 Histogram saved as abc_histogram.png
 Line plot saved as abc_line_plot.png
-2025-03-13 18:55:01 - Processing of plant abc completed successfully
-2025-03-13 18:55:01 - Generated 3 new files in Diagrams/abc
-2025-03-13 18:55:01 - ----------------------------------------
-2025-03-13 18:55:01 - Processing data for plant: aa2
-2025-03-13 18:55:01 - Created directory: Diagrams/aa2
-2025-03-13 18:55:02 - Warning: Format parameter specified but not supported by the Python script. Ignoring.
-2025-03-13 18:55:02 - Running Python script for plant: aa2
-2025-03-13 18:55:02 - Parameters: --plant 'aa2' --height 12 12 12 12 12 --leaf_count 12 12 12 12 12 --dry_weight 12 12 12 21 12 
+2025-03-13 18:58:14 - Processing of plant abc completed successfully
+2025-03-13 18:58:14 - Generated 3 new files in Diagrams/abc
+2025-03-13 18:58:14 - ----------------------------------------
+2025-03-13 18:58:14 - Processing data for plant: aa2
+2025-03-13 18:58:14 - Created directory: Diagrams/aa2
+2025-03-13 18:58:15 - Warning: Format parameter specified but not supported by the Python script. Ignoring.
+2025-03-13 18:58:15 - Running Python script for plant: aa2
+2025-03-13 18:58:15 - Parameters: --plant 'aa2' --height 12 12 12 12 12 --leaf_count 12 12 12 12 12 --dry_weight 12 12 12 21 12 
 Plant: aa2
 Height data: [12.0, 12.0, 12.0, 12.0, 12.0] cm
 Leaf count data: [12, 12, 12, 12, 12]
@@ -31,14 +31,14 @@ Generated plots for aa2:
 Scatter plot saved as aa2_scatter.png
 Histogram saved as aa2_histogram.png
 Line plot saved as aa2_line_plot.png
-2025-03-13 18:55:02 - Processing of plant aa2 completed successfully
-2025-03-13 18:55:02 - Generated 3 new files in Diagrams/aa2
-2025-03-13 18:55:02 - ----------------------------------------
-2025-03-13 18:55:02 - Virtual environment deactivated.
-2025-03-13 18:55:02 - 
-2025-03-13 18:55:02 - Summary:
-2025-03-13 18:55:02 - Total rows processed: 2
-2025-03-13 18:55:02 - Successfully processed: 2
-2025-03-13 18:55:02 - Skipped rows: 0
-2025-03-13 18:55:02 - Failed rows: 0
-2025-03-13 18:55:02 - All plants were processed successfully!
+2025-03-13 18:58:15 - Processing of plant aa2 completed successfully
+2025-03-13 18:58:15 - Generated 3 new files in Diagrams/aa2
+2025-03-13 18:58:15 - ----------------------------------------
+2025-03-13 18:58:15 - Virtual environment deactivated.
+2025-03-13 18:58:15 - 
+2025-03-13 18:58:15 - Summary:
+2025-03-13 18:58:15 - Total rows processed: 2
+2025-03-13 18:58:15 - Successfully processed: 2
+2025-03-13 18:58:15 - Skipped rows: 0
+2025-03-13 18:58:15 - Failed rows: 0
+2025-03-13 18:58:15 - All plants were processed successfully!
