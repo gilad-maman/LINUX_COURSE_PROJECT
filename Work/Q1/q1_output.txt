@@ -1,0 +1,116 @@
+Time: Thu Mar 13 15:38:16 IST 2025
+USER DETAILS: gldmmn
+REPO: /Users/gldmmn/LINUX_Course_Project
+GithubUrl: https://github.com/gilad-maman/LINUX_COURSE_PROJECT.git
+VERSIONID:
+_____________________________________________
+.
+├── BACKUPS
+├── CODE
+│   ├── plant.py
+│   └── py1.py
+├── DATA
+│   ├── FIle_1.txt
+│   ├── File_2.txt
+│   ├── img1.jpg
+│   ├── img2.jpg
+│   ├── img3.jpg
+│   └── plants.csv
+├── DOWNLOADS
+│   └── LINUX_COURSE_WORK-downloads
+│       ├── FIle_1.txt
+│       ├── File_2.txt
+│       ├── img1.jpg
+│       ├── img2.jpg
+│       ├── img3.jpg
+│       ├── plant.py
+│       ├── plants.csv
+│       └── py1.py
+└── Work
+    ├── Q1
+    │   └── q1_output.txt
+    ├── Q2
+    ├── Q3
+    └── Q4
+
+11 directories, 17 files
+_____________________________________________
+/Users/gldmmn/LINUX_Course_Project 1/Q4.sh
+/Users/gldmmn/LINUX_Course_Project 1/Q4_2.sh
+/Users/gldmmn/LINUX_Course_Project 1/test.sh
+/Users/gldmmn/LINUC_Course_Project/untitled.sh
+/Users/gldmmn/Desktop/new folder/Q4.sh
+/Users/gldmmn/Desktop/new folder/Q4_2.sh
+/Users/gldmmn/Desktop/new folder/test.sh
+/Users/gldmmn/Desktop/hw/gen.sh
+/Users/gldmmn/Desktop/hw/linox_course/scripting/shell_scripts/combine.sh
+/Users/gldmmn/Desktop/hw/linox_course/APT/client_script.sh
+/Users/gldmmn/Desktop/hw/linox_course/commit.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-105649bf/iHcS.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-105649bf/6VJI.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-105649bf/5aBZ.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-105649bf/l0j8.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-105649bf/q1vr.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-105649bf/REPU.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-5a79ccd0/eUDD.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-5a79ccd0/DlUo.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-5a79ccd0/tMT5.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-5a79ccd0/SppE.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-5a79ccd0/w98q.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-5a79ccd0/FX1D.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-5a79ccd0/XBKO.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-5a79ccd0/mbDt.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-5a79ccd0/G0mX.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-5a79ccd0/hovM.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-5a79ccd0/mT2D.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/-5a79ccd0/XFmV.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/3d7289d3/LJJK.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/5f5a4f5d/kSJf.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/5f5a4f5d/qFEW.sh
+/Users/gldmmn/Library/Application Support/Code/User/History/5f5a4f5d/eElB.sh
+/Users/gldmmn/Library/Group Containers/group.net.whatsapp.WhatsApp.shared/Message/Media/972543247222@s.whatsapp.net/6/d/6d4c8a97-8638-4f61-80cb-753371128077.sh
+/Users/gldmmn/Library/Caches/JetBrains/PyCharm2024.1/tmp/intellij-ssh-askpass-local.sh
+/Users/gldmmn/Library/Caches/JetBrains/PyCharm2024.1/tmp/intellij-git-askpass-local.sh
+/Users/gldmmn/Library/Caches/JetBrains/PyCharm2024.1/tmp/intellij-git-editor-local.sh
+/Users/gldmmn/.vscode/extensions/ritwickdey.liveserver-5.7.9/node_modules/acorn-jsx/node_modules/acorn/bin/update_authors.sh
+/Users/gldmmn/.oh-my-zsh/tools/changelog.sh
+/Users/gldmmn/.oh-my-zsh/tools/check_for_upgrade.sh
+/Users/gldmmn/.oh-my-zsh/tools/uninstall.sh
+/Users/gldmmn/.oh-my-zsh/tools/install.sh
+/Users/gldmmn/.oh-my-zsh/tools/theme_chooser.sh
+/Users/gldmmn/.oh-my-zsh/tools/upgrade.sh
+/Users/gldmmn/.oh-my-zsh/tools/require_tool.sh
+/Users/gldmmn/.oh-my-zsh/plugins/gitfast/git-prompt.sh
+/Users/gldmmn/.oh-my-zsh/plugins/zsh-navigation-tools/doc/install.sh
+/Users/gldmmn/.oh-my-zsh/plugins/wd/_wd.sh
+/Users/gldmmn/.oh-my-zsh/plugins/wd/wd.sh
+/Users/gldmmn/.oh-my-zsh/plugins/z/z.sh
+/Users/gldmmn/.oh-my-zsh/plugins/emacs/emacsclient.sh
+/Users/gldmmn/.oh-my-zsh/plugins/catimg/catimg.sh
+/Users/gldmmn/.oh-my-zsh/plugins/drush/drush.complete.sh
+/Users/gldmmn/.oh-my-zsh/oh-my-zsh.sh
+/Users/gldmmn/Downloads/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/contrib/terminal/browser/media/shellIntegration-bash.sh
+/Users/gldmmn/Downloads/Visual Studio Code.app/Contents/Resources/app/out/vs/base/node/ps.sh
+/Users/gldmmn/Downloads/Visual Studio Code.app/Contents/Resources/app/out/vs/base/node/terminateProcess.sh
+/Users/gldmmn/Downloads/Visual Studio Code.app/Contents/Resources/app/out/vs/base/node/cpuUsage.sh
+/Users/gldmmn/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug/src/terminateProcess.sh
+/Users/gldmmn/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-empty.sh
+/Users/gldmmn/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/git-editor-empty.sh
+/Users/gldmmn/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/git-editor.sh
+/Users/gldmmn/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/ssh-askpass.sh
+/Users/gldmmn/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/ssh-askpass-empty.sh
+/Users/gldmmn/Downloads/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh
+/Users/gldmmn/Downloads/iMyFone AnyTo Installer-3.app/Contents/Resources/install.sh
+/Users/gldmmn/Downloads/iMyFone AnyTo Installer-2.app/Contents/Resources/install.sh
+/Users/gldmmn/Downloads/Beyond Compare.app/Contents/Resources/.update_bc.sh
+/Users/gldmmn/Downloads/ex6-2/test.sh
+/Users/gldmmn/Downloads/iMyFone AnyTo Installer.app/Contents/Resources/install.sh
+/Users/gldmmn/Downloads/iTerm.app/Contents/Resources/iterm2_git_poll.sh
+/Users/gldmmn/Downloads/iTerm.app/Contents/Resources/it2_api_wrapper.sh
+/Users/gldmmn/Downloads/iTerm.app/Contents/Resources/iterm2_git_wrapper.sh
+/Users/gldmmn/Downloads/OMdb 3/__MACOSX/OMdb 3/OMdb/node_modules/jake/bin/._bash_completion.sh
+/Users/gldmmn/Downloads/OMdb 3/OMdb 3/OMdb/node_modules/jake/bin/bash_completion.sh
+/Users/gldmmn/school/first year/c/tasks/ex6/book-info.sh
+/Users/gldmmn/school/first year/c/tasks/ex6/test.sh
+/Users/gldmmn/school/first year/c/tasks/exam/bbb.sh
+/Users/gldmmn/school/first year/c/tasks/exam/aaa.sh
