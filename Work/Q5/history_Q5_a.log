@@ -1,0 +1,104 @@
+    1  git branch BR_Q2
+    2  git checkout BR_Q2
+    3  cp DOWNLOADS/LINUX_COURSE_WORK-downloads/plant.py Work/Q2
+    4  brew install python-matplotlib
+    5  python3 Work/Q2/plant.py
+    6  mkdir Work/Q2/Diagram_1
+    7  mv *.png Work/Q2/Diagram_1
+    8  zip -r "BACKUPS/Diagrams1_$(date +"%Y-%m-%d_%H-%M-%S").zip" Work/Q2/Diagram_1
+    9  git add.
+   10  git add .
+   11  git commit -m "Q2.1 complete"
+   12  git checkout main
+   13  git marge BR_Q2
+   14  git merge BR_Q2
+   15  git push -u origin main
+   16  nano Work/Q2/plant.py
+   17  echo "matplotlib\nargparse" > requirements.txt
+   18  brew uninstall python-matplotlib
+   19  python3 -m venv venv
+   20  source venv/bin/activate
+   21  pip install -r requirements.txt
+   22  python3 Work/Q2/plant.py --plant "Rose" --height 12 13 14 17 20 --leaf_count 10 20 30 40 50 --dry_weight 11 12 13 14 15
+   23  mkdir Work/Q2/Diagrams_2
+   24  mv *.png Work/Q2/Diagrams_2
+   25  zip -r "BACKUPS/Diagrams2_$(date +"%Y-%m-%d_%H-%M-%S").zip" Work/Q2/Diagram_2
+   26  zip -r "BACKUPS/Diagrams2_$(date +"%Y-%m-%d_%H-%M-%S").zip" Work/Q2/Diagrams_2
+   27  history > history_linux_command_Q2.log
+   28  git add .
+   29  git b-m commit "Q2.2 complete"
+   30  git -m commit "Q2.2 complete"
+   31  git commit -m "Q2.2 complete"
+   32  git push -u origin main
+   33  git branch BR_Q3
+   34  git checkout BR_Q3
+   35  touch menu.sh
+   36  git branch BR_CSV
+   37  nano menu.sh
+   38  ./menu.sh
+   39  chmod +x menu.sh
+   40  ./menu.sh
+   41  hisory > history_linux_command_Q3
+   42  history > history_linux_command_Q3
+   43  git checkout BR_CSV
+   44  nano menu.sh
+   45  ./menu.sh
+   46  hisory > history_linux_command_Q3.log
+   47  history > history_linux_command_Q3.log
+   48  git add .
+   49  git commit -m "I forgot to log in for BR_CSV, so I logged in at the end and went through the steps again"
+   50  git checkout BR_Q3
+   51  git merge BR_CSV
+   52  checkout main
+   53  git checkout main
+   54  git merge BR_Q3
+   55  git push -u origin main
+   56  git branch BR_Q4
+   57  git checkout BR_Q4
+   58  touch Q4.sh
+   59  nano Q4.sh
+   60  chmod +x Q4.sh
+   61  ./Q4.sh /Users/gldmmn/LINUX_Course_Project/file1.csv
+   62  cd Q4
+   63  cd Work/Q4
+   64  ./Q4.sh /Users/gldmmn/LINUX_Course_Project/file1.csv
+   65  zip -r "BACKUPS/DiagramsQ4_$(date +"%Y-%m-%d_%H-%M-%S").zip" Work/Q4/Diagrams
+   66  zip -r "BACKUPS/DiagramsQ4_$(date +"%Y-%m-%d_%H-%M-%S").zip" Diagrams
+   67  zip -r "/Users/gldmmn/LINUX_Course_Project/BACKUPS/DiagramsQ4_$(date +"%Y-%m-%d_%H-%M-%S").zip" Diagrams
+   68  git add .
+   69  git commit -m "Q4.1 complete"
+   70  chmod +x Q4_2.sh
+   71  ./Q4_2.sh
+   72  ./Q4_2.sh /Users/gldmmn/LINUX_Course_Project/file1.csv
+   73  history > historyQ4.log
+   74  git add .
+   75  git commit -m "Q4.2 complete"
+   76  ./Q4_2.sh /Users/gldmmn/LINUX_Course_Project/file1.csv
+   77  history > historyQ4.log
+   78  git add .
+   79  git commit -m "Q4.2 complete"
+   80  git checkout main
+   81  git merge BR_Q4
+   82  git push -u origin main
+   83  ..
+   84  mkdir Q5
+   85  cd Q5
+   86  git branch BR_Q5
+   87  git checkout BR_Q5
+   88  touch Dockerfile
+   89  docker build -t plant-analysis .
+   90  touch Dockerfile
+   91  sudo apt-get remove docker docker-engine docker.io containerd runc
+   92  brew install --cask docker
+   93  docker run hello-world
+   94  docker --version
+   95  docker run hello-world
+   96  docker run -it ubuntu bash
+   97  docker ps -a
+   98  docker start 2264d0f0d678
+   99  docker attach 2264d0f0d678
+  100  docker cp 2264d0f0d678:/path/to/reversed_combined.png Work/Q5
+  101  docker ps -a
+  102  cp 2264d0f0d678:/path/to/reversed_combined.png Work/Q5
+  103  cp 2264d0f0d678:reversed_combined.png Work/Q5
+  104  cd Work/Q5
