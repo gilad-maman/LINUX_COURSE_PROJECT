@@ -1,10 +1,18 @@
 import matplotlib.pyplot as plt
+import argparse
 
+parser = argparse.ArgumentParser()
+parser.add_argument('--plant', type=str, required=True, help="plant name")
+parser.add_argument('--height', type=float, nargs='+', help="Height data over time (in cm)")
+parser.add_argument('--leaf_count', type=int, nargs='+', help="Leaf count over time")
+parser.add_argument('--dry_weight', type=float, nargs='+', help="Dry weight over time (in gramms)")
 
-plant = "Rose"
-height_data = [50, 55, 60, 65, 70]  # Height data over time (in cm)
-leaf_count_data = [35, 40, 45, 50, 55]  # Leaf count over time
-dry_weight_data = [2.0, 2.0, 2.1, 2.1, 3.0]  # Dry weight over time (in grams)
+args = parser.parse_args()
+
+plant = args.plant
+height_data = args.height  # Height data over time (in cm)
+leaf_count_data = args.leaf_count  # Leaf count over time
+dry_weight_data = args.dry_weight  # Dry weight over time (in grams)
 
 # Print out the plant data (optional)
 print(f"Plant: {plant}")
