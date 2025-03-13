@@ -1,0 +1,30 @@
+    1  mkdir -p LINUX_Course_Project/{DOWNLOADS,CODE,DATA,BACKUPS,Work/{Q1,Q2,Q3,Q4}}
+    2  cd LINUX_Course_Project
+    3  git init
+    4  curl -L https://github.com/Telhai-Git/LINUX_COURSE_WORK/archive/refs/tags/downloads.tar.gz -o download.tar.gz
+    5  tar -xzf download.tar.gz -C DOWNLOADS
+    6  git add .
+    7  git commit -m "My first commit in this project"
+    8  rm download.tar.gz
+    9  git branch BR_Q1
+   10  cp DOWNLOADS/LINUX_COURSE_WORK-downloads/*.py CODE
+   11  cp DOWNLOADS/LINUX_COURSE_WORK-downloads/*.{csv,jpg,txt} DATA
+   12  toch Work/Q1/q1_output.txt
+   13  touch Work/Q1/q1_output.txt
+   14  echo "Time: $(date) > Work/Q1/q1_output.txt
+   15  echo "Time: $(date)" > Work/Q1/q1_output.txt
+   16  "USER DETAILS: $(whoami)" >> Work/Q1/q1_output.txt
+   17  echo "USER DETAILS: $(whoami)" >> Work/Q1/q1_output.txt
+   18  echo "REPO: $(git rev-parse --show-toplevel)" >> Work/Q1/q1_output.txt
+   19  "GithubUrl: https://github.com/gilad-maman/LINUX_COURSE_PROJECT.git" >> Work/Q1/q1_output.txt
+   20  echo "GithubUrl: https://github.com/gilad-maman/LINUX_COURSE_PROJECT.git" >> Work/Q1/q1_output.txt
+   21  echo "VERSIONID:$(grep -oP '(?<=VERSION_ID=")[^"]*' /etc/os-release)" >> Work/Q1/q1_output.txt
+   22  echo "_____________________________________________" >> Work/Q1/q1_output.txt
+   23  brew install tree
+   24  tree >> Work/Q1/q1_output.txt
+   25  echo "_____________________________________________" >> Work/Q1/q1_output.txt
+   26  find ~ -name "*.sh" -type f >> Work/Q1/q1_output.txt
+   27  git add Work/Q1
+   28  git commit -m "Q1 complete\n\n"
+   29  log | tee git_commits.log
+   30  git log | tee git_commits.log
